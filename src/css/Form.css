@@ -1,0 +1,21 @@
+
+.form{
+    height: 500px;
+    width: 300px;
+    border: 2px solid dodgerblue;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+}
+label{
+    font-size: 1.2rem;
+}
+input{
+    height: 25px;
+    width: 100%;
+    /* border: 2px solid black; */
+    /* background-color: none; */
+    border-radius: 40px;
+}
